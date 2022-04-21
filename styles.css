@@ -1,0 +1,17 @@
+body{
+    font-family: 'Overpass', sans-serif;
+    font-size:15px;
+    background-color: hsl(216, 12%, 8%);
+}
+
+.rating{
+    background-color: hsl(213, 19%, 18%);
+}
+
+h2{
+    color:hsl(0, 0%,100%);
+}
+
+p{
+    color: hsl(217,12%, 63%);
+}
