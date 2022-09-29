@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/interactive-rating-component-en3AyfC26R))
-- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://steveostler.github.io/interactive-rating/))
+- Solution URL: [https://www.frontendmentor.io/solutions/interactive-rating-component-en3AyfC26R](https://your-solution-url.com](https://www.frontendmentor.io/solutions/interactive-rating-component-en3AyfC26R)
+- Live Site URL: [https://steveostler.github.io/interactive-rating/](https://steveostler.github.io/interactive-rating)
 
 ## My process
 
@@ -53,7 +53,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Steve Ostler]
 - Frontend Mentor - [@steveostler](https://www.frontendmentor.io/profile/steveostler)
 - Twitter - [@steveostler](https://www.twitter.com/steveostler)
 
