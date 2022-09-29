@@ -32,18 +32,11 @@ Users should be able to:
 
 ![](./screenshot.jpg)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/interactive-rating-component-en3AyfC26R))
+- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://steveostler.github.io/interactive-rating/))
 
 ## My process
 
@@ -61,8 +54,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ## Author
 
 - Website - [Steve Ostler]
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/steveostler)
-- Twitter - [@yourusername](https://www.twitter.com/steveostler)
+- Frontend Mentor - [@steveostler](https://www.frontendmentor.io/profile/steveostler)
+- Twitter - [@steveostler](https://www.twitter.com/steveostler)
 
 
 
